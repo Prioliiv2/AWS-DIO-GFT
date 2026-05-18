@@ -57,3 +57,6 @@ Aqui estão os registros visuais do processo:
 ## 💡 Aprendizados e Conclusão
 Durante este laboratório, foi possível fixar conceitos fundamentais sobre como a AWS organiza a rede e a segurança antes mesmo de colocar um servidor no ar. 
 Entendi a importância do **Security Group** como primeira barreira de defesa e a necessidade de documentar e encerrar recursos (`Terminate`) para manter uma boa governança de custos em Cloud.
+
+<img width="1218" height="859" alt="image" src="https://github.com/user-attachments/assets/b02a3444-5a5f-4e17-b681-f80179839fed" />
+
